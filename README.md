@@ -2,6 +2,10 @@
 
 A modern, modular front-end web project built with HTML, CSS, and JavaScript. The project focuses on creating interactive UI components, smooth scrolling effects, and a clean, maintainable structure inspired by modern agency websites.
 
+## Live Demo
+
+https://notnahid.github.io/riseatseven/
+
 ## Overview
 
 RiseAtSeven is designed as a front-end experimentation and learning project focused on:
